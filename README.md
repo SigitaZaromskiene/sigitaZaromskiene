@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**SigitaZaromskiene/sigitaZaromskiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, I’m Sigita Žaromskienė from Kaunas, Lithuania.
 
-Here are some ideas to get you started:
+👀 I’m passionate about web development and the endless possibilities it offers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently, I'm on a journey to master Redux and Jest testing. My goal is to transition into a career as a Front-End developer.
+
+📫 Let's connect! You can reach me at:
+- Email: sigitazaromskiene@yahoo.com
+- LinkedIn: [Sigita Žaromskienė](https://www.linkedin.com/in/sigita-zaromskiene/)
+
+#### 💻 Tech Stack
+- CSS3
+- HTML5
+- JavaScript
+- SCSS
+- Node.js
+- React
+- BEM
+- MySQL
+- Redux (in progress)
+- Jest
+
+
+🚀 Excited to embark on this journey of growth and learning. Join me as I explore the exciting world of web development!
