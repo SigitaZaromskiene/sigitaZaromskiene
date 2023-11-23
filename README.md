@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 👋 Hi there, I’m Sigita Žaromskienė from Kaunas, Lithuania.
+### I’m Sigita Žaromskienė from Kaunas, Lithuania.
 
 👀 I’m passionate about web development and the endless possibilities it offers.
 
