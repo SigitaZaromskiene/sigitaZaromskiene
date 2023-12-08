@@ -6,19 +6,20 @@
 
 🌱 Currently, I'm on a journey to master Redux Toolkit and Typescript. My goal is to transition into a career as a Front-End developer.
 
-🧰 You can check my last project here: [API integration project]([https://www.linkedin.com/in/sigita-zaromskiene/](https://sigitazaromskiene.github.io/Fun-API-Integration-Project/))
+🧰 You can check my last project here: [API integration project](https://www.linkedin.com/in/sigita-zaromskiene/](https://sigitazaromskiene.github.io/Fun-API-Integration-Project/)).
 
 📫 Let's connect! You can reach me at:
 - Email: sigitazaromskiene@yahoo.com
 - LinkedIn: [Sigita Žaromskienė](https://www.linkedin.com/in/sigita-zaromskiene/)
 
 #### 💻 Tech Stack
-- CSS3
+- React
 - HTML5
 - JavaScript
 - SCSS
 - Node.js
-- React
+- Git
+- Github
 - BEM
 - MySQL
 - Redux (in progress)
