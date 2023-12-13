@@ -17,7 +17,7 @@
 
 👩‍💻 [Grocery shop](https://sigitazaromskiene.github.io/Grocery-Shop/)
 
-👩‍💻 [Dice game](https://sigitazaromskiene.github.io/Grocery-Shop/)
+👩‍💻 [Dice game](https://sigitazaromskiene.github.io/16-number-game/)
 
 
 
