@@ -43,6 +43,8 @@
 - HTML5
 - JavaScript
 - SCSS
+- CSS
+- BEM
 - Node.js
 - Git
 - Github
