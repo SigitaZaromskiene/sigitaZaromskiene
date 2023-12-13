@@ -27,7 +27,7 @@
 - Email: sigitazaromskiene@yahoo.com
 - LinkedIn: [Sigita Žaromskienė](https://www.linkedin.com/in/sigita-zaromskiene/)
 
-  ***
+***
 
 
 
