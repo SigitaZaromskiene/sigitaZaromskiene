@@ -45,5 +45,8 @@
 - Redux 
 - Jest
 
+***
+
+
 
 🚀 Excited to embark on this journey of growth and learning. Join me as I explore the exciting world of web development!
