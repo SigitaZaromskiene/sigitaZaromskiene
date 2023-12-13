@@ -8,8 +8,10 @@
 
 🧰 You can check my last two projects here: 
 
-👩‍💻 [API integration project](https://sigitazaromskiene.github.io/Fun-API-Integration-Project/).
+👩‍💻 [API integration project](https://sigitazaromskiene.github.io/Fun-API-Integration-Project/)
+
 👩‍💻 [Grocery shop](https://sigitazaromskiene.github.io/Grocery-Shop/)
+
 
 📫 Let's connect! You can reach me at:
 - Email: sigitazaromskiene@yahoo.com
