@@ -11,11 +11,17 @@
 
 
 
-🧰 You can check my last two projects here: 
+🧰 You can check my last projects here: 
 
 👩‍💻 [API integration project](https://sigitazaromskiene.github.io/Fun-API-Integration-Project/)
 
 👩‍💻 [Grocery shop](https://sigitazaromskiene.github.io/Grocery-Shop/)
+
+👩‍💻 [Dice game]([https://sigitazaromskiene.github.io/Grocery-Shop/](https://sigitazaromskiene.github.io/16-number-game/)
+
+
+
+
 
 ***
 
