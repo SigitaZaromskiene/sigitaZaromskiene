@@ -50,7 +50,9 @@
 - Github
 - BEM
 - MySQL
-- Redux 
+- Redux
+- Redux Toolkit
+- React Router
 - Jest
 
 ***
