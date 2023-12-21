@@ -49,7 +49,6 @@
 - Git
 - Github
 - BEM
-- MySQL
 - Redux
 - Redux Toolkit
 - React Router
