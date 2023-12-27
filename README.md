@@ -10,7 +10,7 @@
 
 
 
-🌟 Interested in checking out my portfolio? Find it here: [Portfolio](https://sigitazaromskiene.github.io/portfolio/)
+🌟 Interested in checking out my portfolio? Find it here: [Portfolio](https://sigitazaromskiene.github.io/My-Portfolio/)
 
 
 
