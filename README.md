@@ -48,7 +48,6 @@
 - Node.js
 - Git
 - Github
-- BEM
 - Redux
 - Redux Toolkit
 - React Router
